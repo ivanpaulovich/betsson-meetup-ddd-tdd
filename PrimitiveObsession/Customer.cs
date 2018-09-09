@@ -5,4 +5,7 @@ public class Customer : IEntity
     public string LastName { get; set; }
     public string Personnummer { get; set; }
     public string Email { get; set; }
+    public string MobilePhoneNumber { get; set; }
 }
+
+
